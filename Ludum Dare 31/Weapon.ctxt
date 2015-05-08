@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=nFlip
+comment1.target=void\ image(boolean)
+numComments=2

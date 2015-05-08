@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Player()
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=
+comment2.target=void\ addFork()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ animate()
+numComments=5

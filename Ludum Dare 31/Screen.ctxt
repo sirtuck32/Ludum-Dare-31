@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Screen()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Screen.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=amt
+comment2.target=void\ addExp(int)
+comment3.params=
+comment3.target=void\ upgrade()
+comment4.params=str
+comment4.target=void\ bonus(java.lang.String)
+comment5.params=
+comment5.target=void\ stop()
+comment6.params=
+comment6.target=void\ gameover()
+comment7.params=
+comment7.target=void\ restart()
+comment8.params=
+comment8.target=void\ win()
+comment9.params=
+comment9.target=void\ start()
+numComments=10
